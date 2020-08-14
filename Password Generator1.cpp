@@ -2,7 +2,6 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
 static const char alphanum[] =
 "0123456789"
 "!@#$%^&*"
